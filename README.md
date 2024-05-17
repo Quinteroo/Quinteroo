@@ -1,12 +1,9 @@
 <h1 align="left">Hi 👋🏻, I'm Quinteroo</h1>
 
-<img aling="center" src="https://images.inc.com/uploaded_files/image/1024x576/software-computer-code-1940x900_35196.jpg">
-
-## 🎯 Community Achievements
 [![Codewars Badge](https://www.codewars.com/users/Quinteroo/badges/large)](https://www.codewars.com/users/quinteroo)
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## 🎯 GitHub Analytics
 <p align="left">
 <a href="https://github.com/Quinteroo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quinteroo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
