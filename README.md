@@ -1,7 +1,10 @@
-<h1 align="left">Hi 👋🏻, I'm Quinteroo</h1>
+# Hi 👋🏻, I'm **qugodev**
+<img src="https://github.com/Quinteroo/Quinteroo/assets/146204443/5e1faea2-a46e-4f1c-8efd-91c0b00badc6">
+
 
 [![Codewars Badge](https://www.codewars.com/users/Quinteroo/badges/large)](https://www.codewars.com/users/quinteroo)
-<p aling="left">I have worked with services and databases, and I'm currently tinkering with DevOps tools. My specialty is JavaScript development, both on the web and on the server. I aspire to become a Tech Lead someday.
+
+<p aling="left">I have worked with services and databases, and I'm currently tinkering with mobile develop tools. My specialty is JavaScript development, both on the web and on the server. I aspire to become a Tech Lead someday.
 
 I have 14 years of experience in the hotel industry, working in Spain and England. I served as Director of F&B, managing teams of 30 people and overseeing sales and production costs, seeking errors or opportunities for improvement.
 
