@@ -17,8 +17,8 @@ All of this has led me to become an empathetic, methodical, and organized person
 ## 📈 GitHub Analytics
 <p align="left">
 <a href="https://github.com/Quinteroo">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quinteroo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quinteroo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="300px" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quinteroo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="300px" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quinteroo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
