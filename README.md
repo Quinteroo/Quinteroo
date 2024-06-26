@@ -1,6 +1,8 @@
-# Hi 👋🏻, I'm **qugodev** 
-<img src="https://github.com/Quinteroo/Quinteroo/assets/146204443/5e1faea2-a46e-4f1c-8efd-91c0b00badc6">
+<img src="https://github.com/Quinteroo/Quinteroo/assets/146204443/445861f4-5c8c-4a1f-816a-7d75a45a9fd1">
 
+
+
+# Hi 👋🏻, I'm **qugodev** 
 
 [![Codewars Badge](https://www.codewars.com/users/Quinteroo/badges/large)](https://www.codewars.com/users/quinteroo)
 
