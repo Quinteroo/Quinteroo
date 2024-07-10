@@ -1,4 +1,5 @@
-<img src="https://github.com/Quinteroo/Quinteroo/assets/146204443/445861f4-5c8c-4a1f-816a-7d75a45a9fd1">
+<img src="https://github.com/Quinteroo/Quinteroo/assets/146204443/46e578c4-01a7-4350-891e-a9792c291c87">
+
 
 
 
