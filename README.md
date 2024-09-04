@@ -49,7 +49,7 @@ I have 14 years of experience in the hotel industry, working in Spain and Englan
 
 - 🔭 I’m currently working on **QUGODEV as freelancer**
 - 📫 How to reach me **hello.quinteroo@gmail.com**
-- ⚡ Fun fact **I love practicing Kickboxing and dipping cookies in coffee ☕🍪**
+
 
 <p align="left">
 <a href="https://dev.to/quinteroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="quinteroo" height="30" width="40" /></a>
