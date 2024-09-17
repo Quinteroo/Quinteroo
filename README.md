@@ -8,11 +8,11 @@
 
 [![Codewars Badge](https://www.codewars.com/users/Quinteroo/badges/large)](https://www.codewars.com/users/quinteroo)
 
-<p aling="left">I have worked with services and databases, and I'm currently tinkering with mobile develop tools. My specialty is JavaScript development, both on the web and on the server. I aspire to become a Tech Lead someday.
+<p aling="left">I have enjoyed work with services and databases, and I'm currently I am currently specializing in 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. I aspire to become a Tech Lead someday.
 
-I have 14 years of experience in the hotel industry, working in Spain and England. I served as Director of F&B, managing teams of 30 people and overseeing sales and production costs, seeking errors or opportunities for improvement. All of this has led me to become an empathetic, methodical, and organized person.</p>
+I have 𝟭𝟰 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in the hotel industry, working in Spain and England. I served as Director of F&B, managing teams of 30 people and overseeing sales and production costs, seeking errors or opportunities for improvement. All of this has led me to become an empathetic, methodical, and organized person.</p>
 
-<p aling="left">In addition, professional experience as a freelancer gives me the ability to work autonomously.</p>
+<p aling="left">In addition, professional experience as a freelancer gives me the ability to 𝘄𝗼𝗿𝗸 𝗮𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀𝗹𝘆.</p>
 <p aling="left">I love the ecommerce sector, practicing kickboxing and dipping cookies in coffee 🍪☕</p>
 
 ## 🎯 Tech Stack:
