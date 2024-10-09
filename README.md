@@ -8,7 +8,7 @@
 
 [![Codewars Badge](https://www.codewars.com/users/Quinteroo/badges/large)](https://www.codewars.com/users/quinteroo)
 
-<p aling="left">I have enjoyed work with services and databases, and I'm currently I am currently specializing in 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. I aspire to become a Tech Lead someday.
+<p aling="left">I have enjoyed work with services and databases, and I'm currently specializing in 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. I aspire to become a Tech Lead someday.
 
 I have 𝟭𝟰 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in the hotel industry, working in Spain and England. I served as Director of F&B, managing teams of 30 people and overseeing sales and production costs, seeking errors or opportunities for improvement. All of this has led me to become an empathetic, methodical, and organized person.</p>
 
